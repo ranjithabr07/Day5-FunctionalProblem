@@ -11,3 +11,6 @@ ran2.LeapYearCheck();
 
 PowerOfTwoProblem ran3 = new PowerOfTwoProblem();
 ran3.PowerOfTwo();
+
+HarmonicProblem ran4 = new HarmonicProblem();
+ran4.HarmonicNumber();
