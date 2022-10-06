@@ -5,3 +5,6 @@ using Day5FunProblem;
 
 FlipCoin ran1 = new FlipCoin();
 ran1.Flip_Percentage();
+
+LeapYear ran2 = new LeapYear();
+ran2.LeapYearCheck();
