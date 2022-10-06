@@ -20,3 +20,6 @@ ran5.Factors();
 
 QuotientRemainder ran6 = new QuotientRemainder();
 ran6.QuotientAndRemainder();
+
+SwapTwoNumberProb ran7 = new SwapTwoNumberProb();
+ran7.SwapTwoNumber();
