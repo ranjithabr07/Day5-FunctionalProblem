@@ -23,3 +23,6 @@ ran6.QuotientAndRemainder();
 
 SwapTwoNumberProb ran7 = new SwapTwoNumberProb();
 ran7.SwapTwoNumber();
+
+EvenOrOddProblem ran8 = new EvenOrOddProblem();
+ran8.EvenOrOdd();
