@@ -8,3 +8,6 @@ ran1.Flip_Percentage();
 
 LeapYear ran2 = new LeapYear();
 ran2.LeapYearCheck();
+
+PowerOfTwoProblem ran3 = new PowerOfTwoProblem();
+ran3.PowerOfTwo();
