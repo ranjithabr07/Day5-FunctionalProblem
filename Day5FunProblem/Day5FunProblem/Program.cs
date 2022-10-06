@@ -17,3 +17,6 @@ ran4.HarmonicNumber();
 
 FactorsProblem ran5 = new FactorsProblem();
 ran5.Factors();
+
+QuotientRemainder ran6 = new QuotientRemainder();
+ran6.QuotientAndRemainder();
