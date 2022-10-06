@@ -14,3 +14,6 @@ ran3.PowerOfTwo();
 
 HarmonicProblem ran4 = new HarmonicProblem();
 ran4.HarmonicNumber();
+
+FactorsProblem ran5 = new FactorsProblem();
+ran5.Factors();
