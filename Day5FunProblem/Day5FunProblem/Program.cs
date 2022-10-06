@@ -26,3 +26,6 @@ ran7.SwapTwoNumber();
 
 EvenOrOddProblem ran8 = new EvenOrOddProblem();
 ran8.EvenOrOdd();
+
+VowelConsonant ran9 = new VowelConsonant();
+ran9.CheckVowelOrConsonant();
